@@ -25,14 +25,22 @@ a keen understanding of techniques geared toward better user interface & experie
 
 -<h3> :computer: Personal Projects </h3>
 <p> ·  <strong><a href='https://kadimoudarrif.com' target='_blank'>PORTFOLIO</a></strong>  Check out my personal portfolio for more projects.</p>
+
 <p> ·  <strong><a href='https://kadi-hub3.github.io/times-news/' target='_blank'> NYT CLONE</a></strong>  Cloned my fav news journal using NYT API, displaying categories from politics to food and arts.</p>
+
 <p> ·  <strong><a href='https://kadi-hub3.github.io/fashion-blog/' target='_blank'> LIFESTYLE BLOG</a></strong>  Lifestye blog for latest trends, and ins and outs. </p>
+
 <p> ·   <strong><a href='https://kadi-hub3.github.io/covid-19-tracker/' target='_blank'> COVID-19 TRACKER</a></strong> Tracking latest data of covid-19 cases including infected, recovered and deaths.</p>
 
 
+
 -<h3> 📫  Reach me via ..</h3>
+
 · mail: kmoudarrif@gmail.com <br>
+
 · linkedIn: https://www.linkedin.com/in/kadi-moudarrif/
+
+
 
 -<h3> 💞️ My interests </h3>
 
